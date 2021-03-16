@@ -1,0 +1,6 @@
+1. Extract the Zip File
+2. Open PowerShell(Admin)
+3. Copy Set-ExecutionPolicy Unrestricted -Force
+4. On the prompt, change directory where the zip file was extracted
+5. Run the script, .\Windows10DebloaterGUI.ps1
+

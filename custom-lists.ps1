@@ -1,0 +1,4 @@
+﻿$global:WhiteListedApps = @(
+)
+$global:Bloatware = @(
+)
